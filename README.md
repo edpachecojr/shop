@@ -10,9 +10,10 @@ https://balta.io/carreiras/desenvolvedor-backend-dotnet
 A aplicação consiste em uma api REST utilizando a abordagem orientada a dados (data driven) com todos os métodos necessários e utilizado autenticação com perfis de acesso.
 
 # Tecnologias utilizadas
-## Aplicação
+## Aplicação - API
 - C#
 - ASP.NET Core
+- REST
 
 # Como executar o projeto
 
