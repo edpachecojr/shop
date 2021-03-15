@@ -12,6 +12,7 @@ A aplicação consiste em uma api REST utilizando a abordagem orientada a dados 
 # Tecnologias utilizadas
 ## Aplicação
 - C#
+- ASP.NET Core
 
 # Como executar o projeto
 
