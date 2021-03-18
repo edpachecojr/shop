@@ -17,6 +17,7 @@ A aplicação consiste em uma api REST utilizando a abordagem orientada a dados 
 - Migrations
 - SQL Server
 - REST
+- JWT
 - Authentication
 - Authorization
 - Versionamento
