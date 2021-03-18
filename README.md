@@ -13,8 +13,14 @@ A aplicação consiste em uma api REST utilizando a abordagem orientada a dados 
 ## Aplicação - API
 - C#
 - ASP.NET Core
+- Entity Framework Core
+- Migrations
+- SQL Server
 - REST
-
+- Authentication
+- Authorization
+- Versionamento
+- Deploy Azure
 # Como executar o projeto
 
 ## Back end
